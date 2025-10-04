@@ -1,6 +1,6 @@
-# Hi, I'm Shubham Yadav 👋
+# Hi, I'm Shubham Yadav 
 
-### 🚀 About Me
+###  About Me
 I'm a passionate software developer and learner, focused on:
 
 - Operating Systems & Compiler Development (RISC-V)
