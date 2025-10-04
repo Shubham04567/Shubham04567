@@ -36,7 +36,7 @@ I love building projects that combine **low-level programming** and **modern web
  
 ### 📈 GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham04567&show_icons=true&theme=radical)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham04567&show_icons=true&theme=radical&count_private=true&hide=stars)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham04567&layout=compact&theme=radical)
 
